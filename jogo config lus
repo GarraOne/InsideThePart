@@ -1,0 +1,13 @@
+// criar
+global.luses = 0;
+
+
+
+// step
+if(keyboard_check_pressed(ord("L"))){
+	//LUS 
+	global.luses += 1;
+	if(global.luses == 4){
+	global.luses = 0;	
+	}
+	}
