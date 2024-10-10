@@ -36,7 +36,8 @@
 			if(xedni == true){
 				room_goto(Menus); 	
 				}else{
-					 game_end();	
+					 	audio_stop_all();
+						audio_play_sound(SomDoEle, 10, false);
 				}
 		break;
 	}
