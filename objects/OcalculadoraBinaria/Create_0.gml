@@ -1,0 +1,9 @@
+	opcoes = ["1","OR", "Next Number"];
+	opernoes = ["0", "AND", "Voltar"];
+	index = 0;
+	xedni = true;
+	opre = 0;
+	operacao = "Vazio";
+	numero = ["", "", ""];
+	NUMber = 0 ;
+	op_max = array_length(opcoes);

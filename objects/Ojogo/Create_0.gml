@@ -1,0 +1,11 @@
+	global.pause = false;
+	global.luses = 0;
+	global.aumentoLus = 1;
+	opcoes = ["Voltar ao Jogo", "Salvar", "Carregar Jogo","Menu", "Opções", "Sair"];
+	opagoes = ["Tamanho da luz: 1", "Novo Jogo", "Voltar"];
+	tamanhodalus = [1 , 2, 4, 8, 0.5];
+	index = 0;
+	op_max = array_length(opcoes);
+	opermax =array_length(opagoes);
+	opsoes = false;
+	podade = 1;
