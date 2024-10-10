@@ -32,13 +32,14 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"IntoThePart",
   "resources":[
     {"id":{"name":"Fbi","path":"fonts/Fbi/Fbi.yy",},},
     {"id":{"name":"FtMenu","path":"fonts/FtMenu/FtMenu.yy",},},
     {"id":{"name":"OaudioArquivo","path":"objects/OaudioArquivo/OaudioArquivo.yy",},},
+    {"id":{"name":"OaudioDaRam","path":"objects/OaudioDaRam/OaudioDaRam.yy",},},
     {"id":{"name":"OaudioDovirus","path":"objects/OaudioDovirus/OaudioDovirus.yy",},},
     {"id":{"name":"OaudioFonte","path":"objects/OaudioFonte/OaudioFonte.yy",},},
     {"id":{"name":"OaudioGPU","path":"objects/OaudioGPU/OaudioGPU.yy",},},
@@ -75,6 +76,7 @@
     {"id":{"name":"PlayerStateFree","path":"scripts/PlayerStateFree/PlayerStateFree.yy",},},
     {"id":{"name":"PlayerStateFreeze","path":"scripts/PlayerStateFreeze/PlayerStateFreeze.yy",},},
     {"id":{"name":"SomDaFonte","path":"sounds/SomDaFonte/SomDaFonte.yy",},},
+    {"id":{"name":"SomDaRam","path":"sounds/SomDaRam/SomDaRam.yy",},},
     {"id":{"name":"SomDoArquivo","path":"sounds/SomDoArquivo/SomDoArquivo.yy",},},
     {"id":{"name":"SomDoEle","path":"sounds/SomDoEle/SomDoEle.yy",},},
     {"id":{"name":"SomDoGPU","path":"sounds/SomDoGPU/SomDoGPU.yy",},},
