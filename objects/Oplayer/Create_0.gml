@@ -8,7 +8,8 @@
 	Pausente = 0;
 	//Coletavel do Arquivo
 	global.coletavel = 0;
-	
+	// tiros
+	global.bullets = 8;
 	state = PlayerState.FREE;
 	enum PlayerState
 	{

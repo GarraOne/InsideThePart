@@ -32,7 +32,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"IntoThePart",
   "resources":[
@@ -64,6 +64,7 @@
     {"id":{"name":"Oplayer","path":"objects/Oplayer/Oplayer.yy",},},
     {"id":{"name":"Oportal","path":"objects/Oportal/Oportal.yy",},},
     {"id":{"name":"Osaves","path":"objects/Osaves/Osaves.yy",},},
+    {"id":{"name":"Oshoot","path":"objects/Oshoot/Oshoot.yy",},},
     {"id":{"name":"Otiro","path":"objects/Otiro/Otiro.yy",},},
     {"id":{"name":"Ovirus","path":"objects/Ovirus/Ovirus.yy",},},
     {"id":{"name":"Menus","path":"rooms/Menus/Menus.yy",},},
@@ -125,7 +126,7 @@
     {"id":{"name":"Sprite38","path":"sprites/Sprite38/Sprite38.yy",},},
     {"id":{"name":"Sprite39","path":"sprites/Sprite39/Sprite39.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
-    {"id":{"name":"Stiro","path":"sprites/Stiro/Stiro.yy",},},
+    {"id":{"name":"Sshoot","path":"sprites/Sshoot/Sshoot.yy",},},
     {"id":{"name":"Svirus","path":"sprites/Svirus/Svirus.yy",},},
   ],
   "resourceType":"GMProject",

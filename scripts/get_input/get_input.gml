@@ -14,6 +14,8 @@
 	//baixo
 	key_down = keyboard_check(ord("S"))
 	
+	//tiro
+	key_shoot = keyboard_check(ord("M"))
 	#endregion
 
 

@@ -77,7 +77,6 @@
 	
 	if key_shoot and global.bullets > 0
 	{
-		audio_play_sound(son1,1,0)
 		with(instance_create_layer(_xx, y + 10, "Shoot", Oshoot))
 		{ 
 			global.bullets--;
