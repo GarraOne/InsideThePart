@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Ovirus",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Oarquvinho",
+  "eventList":[],
   "managed":true,
-  "name":"Ovirus",
+  "name":"Oarquvinho",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Svirus",
-    "path":"sprites/Svirus/Svirus.yy",
+    "name":"Sprite37",
+    "path":"sprites/Sprite37/Sprite37.yy",
   },
   "spriteMaskId":null,
   "visible":true,
