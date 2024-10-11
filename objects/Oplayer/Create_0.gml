@@ -6,6 +6,8 @@
 	hspd = 0;
 	//pause
 	Pausente = 0;
+	//Coletavel do Arquivo
+	global.coletavel = 0;
 	
 	state = PlayerState.FREE;
 	enum PlayerState
